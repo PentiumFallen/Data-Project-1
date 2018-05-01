@@ -13,7 +13,7 @@ import setIntersectionFinders.IntersectionFinder4;
 /**
  * Part1 of P1 programming project
  * Takes the data created by FilesGeneratorMain to process
- * Implements the appropiate procedure and IntersectionFinder
+ * Implements the appropriate procedure and IntersectionFinder
  * Ends by displaying the final intersected set of the chosen procedure
  * 
  * Built with code from professor
